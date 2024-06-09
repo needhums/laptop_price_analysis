@@ -1,4 +1,4 @@
-use Internship;
+use Database;
 show tables;
 describe Laptop;
 alter table Laptop drop unnamed;
